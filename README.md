@@ -7,7 +7,7 @@
 - [爆燃的高级前端开发不会树形转扁平化格式，你真的会手写了嘛](https://github.com/haojiey/output-article/blob/main/JavaScript%E5%9F%BA%E7%A1%80/%E6%A0%91%E6%89%81%E5%B9%B3%E5%8C%96%E5%A4%84%E7%90%86.md)
 - [5K字 由浅入深聊聊Promise实现原理](https://github.com/haojiey/output-article/blob/main/JavaScript%E5%9F%BA%E7%A1%80/promise%E5%AE%9E%E7%8E%B0.md)
 - [仅“2k”字就能理解的async/await原理，摸个鱼的时间搞定它](https://github.com/haojiey/output-article/blob/main/JavaScript%E5%9F%BA%E7%A1%80/async%E4%B8%8Eawait.md)
-
+- [用一到面试题来加深你对经典永不过时的"JavaScript闭包”的了解](https://github.com/haojiey/output-article/blob/main/JavaScript%E5%9F%BA%E7%A1%80/async%E4%B8%8Eawait.md)
 
 ### 其它类
 
