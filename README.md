@@ -8,6 +8,9 @@
 - [5K字 由浅入深聊聊Promise实现原理](https://github.com/haojiey/output-article/blob/main/JavaScript%E5%9F%BA%E7%A1%80/promise%E5%AE%9E%E7%8E%B0.md)
 - [仅“2k”字就能理解的async/await原理，摸个鱼的时间搞定它](https://github.com/haojiey/output-article/blob/main/JavaScript%E5%9F%BA%E7%A1%80/async%E4%B8%8Eawait.md)
 - [用一到面试题来加深你对经典永不过时的"JavaScript闭包”的了解](https://github.com/haojiey/output-article/blob/main/JavaScript%E5%9F%BA%E7%A1%80/JavaScript%E9%97%AD%E5%8C%85.md)
+- [如何理解原型与原型链](https://github.com/haojiey/output-article/blob/main/JavaScript%E5%9F%BA%E7%A1%80/async%E4%B8%8Eawait.md)
+
+>>>>>>> Stashed changes
 
 ### 其它类
 
