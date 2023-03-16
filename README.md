@@ -11,6 +11,9 @@
 - [如何理解原型与原型链](https://github.com/haojiey/output-article/blob/main/JavaScript%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
 - [面试中被问到怎样实现“发布-订阅”设计模式，可以这样回答](https://github.com/haojiey/output-article/blob/main/JavaScript%E5%9F%BA%E7%A1%80/%E5%8F%91%E5%B8%83-%E8%AE%A2%E9%98%85%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
  
+### 优化类
+
+- [我将ant-design中可搜索的树形控件，平均渲染时间减少90%](https://github.com/haojiey/output-article/blob/main/JavaScript%E5%9F%BA%E7%A1%80/%E5%8F%91%E5%B8%83-%E8%AE%A2%E9%98%85%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
 ### 其它类
 
